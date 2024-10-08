@@ -1,1 +1,1 @@
-# wisteria-hyper-parameter-search
+# WISTERIAのAquarius(GPUサーバー)はバッチジョブを12しか受け入れないので、ジョブの実行状況をモニタリングして逐次投入するスクリプト
